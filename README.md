@@ -105,6 +105,9 @@ is_read BOOLEAN DEFAULT FALSE
   - Manage users and assign roles.
   - Create, update, delete, and assign tasks.
   - View and track task progress.
+ ![image](https://github.com/user-attachments/assets/dd6d8482-c612-4137-80b7-231e70395e17)
+
+    
 - **Employee**
   - View assigned tasks.
   - Update task status and progress.
