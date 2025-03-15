@@ -31,7 +31,7 @@
    - Open the project folder and locate `Db_connection.php`.
    - Update database credentials if necessary.
 6. Open the application in your browser:
-   - Go to `http://localhost/task_management/login.php`.
+   - Go to `http://localhost/task_management_system/login.php`.
 
 ## Database Structure
 
