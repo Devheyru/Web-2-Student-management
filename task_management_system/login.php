@@ -9,6 +9,8 @@
  <body>
 <div class="login_bg">
     <div class="container">
+    <!-- login form -->
+
     <h2>Login form</h2>
     <form class="form_container" action="app/login.php" method="post">
      <div class="input">
