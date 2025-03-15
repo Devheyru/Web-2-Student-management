@@ -37,7 +37,7 @@ if(isset($_POST['submit'])){
     $role = $user['role'];
     $id = $user['id'];
     if($user_name === $usernameDb){
-      if(password_verify($password,$passwordDb)){
+      if($password==$passwordDb){
         if($role == "admin"){
           $_SESSION['role'] = $role;
           $_SESSION['id'] = $id;
