@@ -1,5 +1,6 @@
 <?php
 session_start();
+//session declared
 if(isset($_SESSION['role']) && isset($_SESSION['id'])){
   include "./Db_connection.php";
   include "./app/Model/User.php";
